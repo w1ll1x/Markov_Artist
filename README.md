@@ -26,3 +26,12 @@ first to go the rout of something more simple and familiar like the Turtle draw 
 challenge myself was well worth it in the added functionality I got from Cairo. Going forward if I were to expand on
 this project it would be cool to do more analysis on the background painting to influence where the dots should be
 placed and what color they should be. 
+
+# Why is this project creative?
+
+I believe my project is creative because of the combination of the two art styles.
+I have seen a fair bit of art in my life but nothing too similar to what my markov artist creates. That said I think it could be made more creative by having some greater level of crossover between the two elements of the painting. For example the placement and color of the dots could take into account the underlying image.
+
+# Sources
+
+All images are from LIFE magazine, as well as LIFE's The World We Live In by Lincoln Barnett
