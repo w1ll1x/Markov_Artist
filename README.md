@@ -1,8 +1,8 @@
 # Markov_Artist
 
-Repository for my Markov Artist project. It works using markov chains to paint
-circles over a background picture.
 
+
+My markov artist generates a unique piece of artwork by placing colored dots on a randomly selected background image. The dots' movement direction and size are influenced by specified transition matrices, working in the form of a markov chain: given the current direction or size, the matrices determine the probabilities of the next direction or size. The artwork starts with a random position on the canvas, and for 20,000 iterations, it calculates a new position and size for the next dot based on probabilities, colors it with a random color, and places it on the canvas. 
 # Why was this meaningful?
 
 This system is personally meaningful to me because of the two forms of art it combines. The background of each painting
